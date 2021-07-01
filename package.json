@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/atharvagadkari05/Twitter-Clone.git",
   "name": "twiiter-clone",
   "version": "0.1.0",
   "private": true,
@@ -10,11 +9,12 @@
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://atharvagadkari05.github.io/Twitter-Clone/",
   "scripts": {
-    
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
