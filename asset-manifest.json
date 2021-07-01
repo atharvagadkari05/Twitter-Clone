@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/atharvagadkari05/Twitter-Clone.git/static/css/main.63784915.chunk.css",
-    "main.js": "/atharvagadkari05/Twitter-Clone.git/static/js/main.319da87a.chunk.js",
-    "main.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/main.319da87a.chunk.js.map",
-    "runtime-main.js": "/atharvagadkari05/Twitter-Clone.git/static/js/runtime-main.3664cd5d.js",
-    "runtime-main.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/runtime-main.3664cd5d.js.map",
-    "static/js/2.f6f319d7.chunk.js": "/atharvagadkari05/Twitter-Clone.git/static/js/2.f6f319d7.chunk.js",
-    "static/js/2.f6f319d7.chunk.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/2.f6f319d7.chunk.js.map",
-    "static/js/3.289fa46b.chunk.js": "/atharvagadkari05/Twitter-Clone.git/static/js/3.289fa46b.chunk.js",
-    "static/js/3.289fa46b.chunk.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/3.289fa46b.chunk.js.map",
+    "main.js": "/atharvagadkari05/Twitter-Clone.git/static/js/main.7c58cc1a.chunk.js",
+    "main.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/main.7c58cc1a.chunk.js.map",
+    "runtime-main.js": "/atharvagadkari05/Twitter-Clone.git/static/js/runtime-main.1f6dd730.js",
+    "runtime-main.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/runtime-main.1f6dd730.js.map",
+    "static/js/2.254250aa.chunk.js": "/atharvagadkari05/Twitter-Clone.git/static/js/2.254250aa.chunk.js",
+    "static/js/2.254250aa.chunk.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/2.254250aa.chunk.js.map",
+    "static/js/3.ea2abe60.chunk.js": "/atharvagadkari05/Twitter-Clone.git/static/js/3.ea2abe60.chunk.js",
+    "static/js/3.ea2abe60.chunk.js.map": "/atharvagadkari05/Twitter-Clone.git/static/js/3.ea2abe60.chunk.js.map",
     "index.html": "/atharvagadkari05/Twitter-Clone.git/index.html",
     "static/css/main.63784915.chunk.css.map": "/atharvagadkari05/Twitter-Clone.git/static/css/main.63784915.chunk.css.map",
-    "static/js/2.f6f319d7.chunk.js.LICENSE.txt": "/atharvagadkari05/Twitter-Clone.git/static/js/2.f6f319d7.chunk.js.LICENSE.txt",
+    "static/js/2.254250aa.chunk.js.LICENSE.txt": "/atharvagadkari05/Twitter-Clone.git/static/js/2.254250aa.chunk.js.LICENSE.txt",
     "static/media/profilepic.9d35c53f.PNG": "/atharvagadkari05/Twitter-Clone.git/static/media/profilepic.9d35c53f.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.3664cd5d.js",
-    "static/js/2.f6f319d7.chunk.js",
+    "static/js/runtime-main.1f6dd730.js",
+    "static/js/2.254250aa.chunk.js",
     "static/css/main.63784915.chunk.css",
-    "static/js/main.319da87a.chunk.js"
+    "static/js/main.7c58cc1a.chunk.js"
   ]
 }
