@@ -1,0 +1,21 @@
+
+.sidebar{
+  grid-column: 3/3;
+}
+
+
+.sidebar  > input{
+    background-color: rgb(240, 238, 238);
+    border-radius: 22px;
+    width: 250px;
+    border: solid white ;
+    padding: 1em;
+    align-items: right;
+    
+    }
+    .sidebar  > input:focus{
+      outline: none;
+    }
+    .sidebar > ul > input > :placeholder-shown{
+     padding: 0.3em;
+      }

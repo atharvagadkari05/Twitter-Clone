@@ -1,0 +1,27 @@
+.Posts  >.headerDp{
+    width: 7%;
+    height: 44px;
+    border-radius: 100%;
+    margin-right:1em ;
+    // margin-top: 1em;
+}
+.Posts{
+    display: flex;
+}
+.post-icons{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.post-icons i{
+    margin-right: 4em;
+}
+
+.Posts > .postBox > #name > text{
+    font-weight: bolder;
+
+}
+.Posts > .postBox > #name >{
+    color: rgb(230, 230, 230);
+
+}

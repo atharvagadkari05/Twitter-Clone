@@ -1,0 +1,13 @@
+@import url("../header/header.css");
+@import url("../sidebar/sidebar.css");
+@import url("../sidebar/sidebar-updates-post/updates.css");
+@import url("../postSection/postSection.css");
+@import url("../postSection/Posts/posts.css");
+@import url("../homeView/home.css");
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+body {
+  max-width: 1250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*# sourceMappingURL=main.css.map */

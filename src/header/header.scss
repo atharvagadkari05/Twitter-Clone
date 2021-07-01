@@ -1,0 +1,79 @@
+.header{
+align-items: center;
+padding: 1em;
+
+
+}
+
+.header > .logo{
+color:#1DA1F2;
+width: fit-content;
+margin: 0;
+font-size: 32px;
+}
+
+
+
+
+.header > ul > li >.side{
+  display: flex;
+  list-style: none;
+  // padding: 1em 0.1em 1em 0.1em;
+ padding-right: 0.1em;
+
+  align-items: center;
+  width:max-content;
+  border-radius: 18px;
+  transition: ease-in 0.1s;
+  }
+  
+  .header > ul >li> .side > i{
+    font-size: 20px;
+    padding: 0 1em 0 0.1em ;
+    }
+
+
+  .header > ul > li > .side:hover{
+   background-color: #c5e9ff;
+    }
+    
+
+
+  .header >ul{
+      padding-left: 0;
+  }
+.header > ul> li{
+  list-style: none;
+}
+
+.postSection-tweet-btn{
+  background-color: #1DA1F2;
+  padding: 1em;
+  font-size: 15px;
+  width: 65%;
+  border-radius: 25px;
+  color: white;
+  border: solid white;
+}
+.postSection-tweet-btn:hover{
+background-color: #109bf1;
+}
+
+ //1b95eo
+
+ // Profile CSS
+
+
+.header-pro-container{
+  display: flex;
+  margin:4em 1em 0 0 ;
+
+}
+.header-pro-container > .headerDp{
+  width: 15%;
+  border-radius: 100%;
+  margin: 0 1em 0 0;
+}
+.header-pro-container > a > text{
+font-weight: bolder;
+}

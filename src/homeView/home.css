@@ -1,0 +1,7 @@
+.home {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 25% auto 25%;
+      grid-template-columns: 25% auto 25%;
+}
+/*# sourceMappingURL=home.css.map */

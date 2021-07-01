@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,GAAG,CAAC,CAAA;EACZ,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,CAAC;CACR;;AAED,AAAA,QAAQ,GAAG,EAAE,CAAA;EAET,MAAM,EAAE,CAAC;CACR;;AAEL,AAAA,QAAQ,CAAA;EACJ,MAAM,EAAE,WAAW;EACnB,gBAAgB,EAAE,OAAkB;EACpC,OAAO,EAAE,eAAe;CAC3B",
+    "sources": [
+        "updates.scss"
+    ],
+    "names": [],
+    "file": "updates.css"
+}
